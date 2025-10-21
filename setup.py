@@ -5,6 +5,8 @@ setup(
     version="1.0.0",
     author="Kelompok 5",
     author_email="vwijaya11@student.ciputra.ac.id",
+    author_email="christianlaury01@student.ciputra.ac.id",
+    author_email="rfebrian01@student.ciputra.ac.id",
     description="Mini Project II: Implementasi Himpunan dengan Bahasa Pemrogramman Python",
     url="https://github.com/VivianWijaya06/Himpunan_Kelompok5",
     packages=find_packages(),
