@@ -6,8 +6,7 @@ setup(
     author="Kelompok 5",
     author_email="vwijaya11@student.ciputra.ac.id",
     description="Mini Project II: Implementasi Himpunan dengan Bahasa Pemrogramman Python",
-    long_description_content_type="text/markdown",
-    url="https://github.com/kelompok-ucm/himpunan-ucm",
+    url="https://github.com/VivianWijaya06/Himpunan_Kelompok5",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
